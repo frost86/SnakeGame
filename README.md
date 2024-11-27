@@ -1,4 +1,4 @@
-Here’s a sample README.md file for your Snake Game project:
+This game was created using Prompt Engineering!
 
 Snake Game
 
